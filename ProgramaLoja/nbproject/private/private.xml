@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/Item.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/Roupa.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/ItemNaoEncontradoException.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/Acessorio.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/ProgramaLoja.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/VendaListener.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/CarrinhoListener.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/Loja.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/Chapeu.java</file>
+            <file>file:/home/diene-silva/Documents/ProgramaLoja/src/programaloja/ItemAdicionadoCarrinhoEvent.java</file>
+        </group>
+    </open-files>
+</project-private>
